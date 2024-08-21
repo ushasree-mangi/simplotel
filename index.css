@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     margin: 0px;
     font-family: Arial, sans-serif;
@@ -169,8 +169,8 @@ body {
 
 .features{
     display: grid;
-  grid-template-columns: 1fr; /* Single column */
-  grid-template-rows: auto auto auto; /* Three rows with automatic height */
+  grid-template-columns: 1fr; 
+  grid-template-rows: auto auto auto; 
   gap: 25px;
    
 }
